@@ -75,7 +75,7 @@ cd cryptoguard-ai
 npm install
 ```
 
-3. Create a `.env` file with your API keys:
+3. Edit `.env` file with your API keys:
 ```env
 ETHERSCAN_API_KEY=your_etherscan_key
 OPENROUTER_API_KEY=your_openrouter_key
